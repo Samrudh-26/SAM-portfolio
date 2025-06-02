@@ -28,7 +28,7 @@ function App() {
 
       <section id="Home" className="home section">
          <div className="home__img-container">
-          <img src="/photo.png" alt="Samrudh HM" className="home__img" />
+          <img src="public/photo.png" alt="Samrudh HM" className="home__img" />
         </div>
         <h1 className="home__title">Samrudh HM</h1>
         <p className="home__subtitle">Full-Stack Developer & UI/UX Designer</p>
@@ -54,7 +54,7 @@ function App() {
           </div>
           <div className="about__img-container">
             <img 
-              src="/photo.png" 
+              src="public/photo.png" 
               alt="About Samrudh" 
               className="about__img" 
             />
